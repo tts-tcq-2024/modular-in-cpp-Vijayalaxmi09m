@@ -7,8 +7,3 @@ void printReferenceManual() {
         std::cout << i << " - " << colorPair.ToString() << std::endl;
     }
 }
-
-int main() {
-    printReferenceManual();
-    return 0;
-}
